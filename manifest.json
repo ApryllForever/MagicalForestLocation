@@ -1,0 +1,20 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "Logophile.MagicalForestLocation",
+  "Name": "MagicalForestLocation",
+  "Author": "Logophile",
+  "Version": "1.0.0",
+  "Description": "Magical Forest Location!!!",
+  "MinimumApiVersion": "3.16.0",
+  "EntryDll": "MagicalForestLocation.dll",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.SpaceCore"
+    }
+
+  ],
+
+  "UpdateKeys": [
+    "Nexus:"
+  ]
+}
